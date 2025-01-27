@@ -1,0 +1,5 @@
+opencv-python
+dronekit
+pillow
+numpy
+tqdm
